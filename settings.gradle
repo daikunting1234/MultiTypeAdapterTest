@@ -1,0 +1,4 @@
+include ':app'
+include ':FactoryTestApp'
+include ':MultiTypeTestApp'
+rootProject.name = "MultiTypeAdatperTest"
